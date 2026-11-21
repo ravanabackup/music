@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PulseCast Bridge</string>
+    <string name="service_label">PulseCast Live Media Listener</string>
+</resources>
